@@ -165,7 +165,7 @@ plt.show()
 
 ### Original vs Noisy Vs Reconstructed Image
 
-![output]()
+![output](https://github.com/jhansi21005096/convolutional-denoising-autoencoder/blob/main/outputb.png)
 
 
 
